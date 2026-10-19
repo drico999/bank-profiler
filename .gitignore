@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+# Never commit real statements or learned data
+data/*
+!data/.gitkeep
+sample_data/real_*
+*.local.*
+
+# Local secrets: never commit
+.streamlit/secrets.toml

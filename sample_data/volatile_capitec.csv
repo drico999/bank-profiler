@@ -1,0 +1,242 @@
+Transaction Date,Description,Money In,Money Out,Balance
+2026-01-01,Debit Order: Rent Payment,,5500.00,500.00
+2026-01-01,Prepaid Mtn Airtime,,152.62,347.38
+2026-01-01,Monthly Account Fee,,6.90,340.48
+2026-01-01,SMS Notification Fee,,0.35,340.13
+2026-01-03,Debit Order: Old Mutual Funeral Cover,,400.00,-59.87
+2026-01-03,Steers,,513.81,-573.68
+2026-01-04,Sasol Fuel Soweto,,445.19,-1018.87
+2026-01-05,City Power Prepaid Electricity,,201.47,-1220.34
+2026-01-05,SMS Notification Fee,,0.35,-1220.69
+2026-01-06,PayShap Payment Consulting Inv 2026,4879.49,,3658.80
+2026-01-06,SMS Notification Fee,,0.35,3658.45
+2026-01-06,SMS Notification Fee,,0.35,3658.10
+2026-01-07,Debit Order: Netflix,,199.00,3459.10
+2026-01-07,Kfc,,362.88,3096.22
+2026-01-08,Shoprite Soweto,,457.78,2638.44
+2026-01-12,Spar Soweto,,383.78,2254.66
+2026-01-12,Aunty Nomsa Food,,233.69,2020.97
+2026-01-16,ATM Cash Withdrawal 8323,,100.00,1920.97
+2026-01-16,Cash Withdrawal Fee,,12.00,1908.97
+2026-01-19,PayShap Payment Consulting Inv 9115,4120.51,,6029.48
+2026-01-19,City Power Prepaid Electricity,,398.53,5630.95
+2026-01-19,Prepaid Mtn Airtime,,135.78,5495.17
+2026-01-19,Prepaid Mtn Airtime,,98.39,5396.78
+2026-01-19,SMS Notification Fee,,0.35,5396.43
+2026-01-20,Shell Fuel Sandton,,432.08,4964.35
+2026-01-20,ATM Cash Withdrawal 5776,,150.00,4814.35
+2026-01-20,Cash Withdrawal Fee,,12.00,4802.35
+2026-01-21,Checkers Pretoria,,422.71,4379.64
+2026-01-22,Shell Fuel Sandton,,359.49,4020.15
+2026-01-23,Woolworths Food Sandton,,581.25,3438.90
+2026-01-23,Game Online,,442.96,2995.94
+2026-01-24,Spar Pretoria,,676.78,2319.16
+2026-01-26,Checkers Pretoria,,509.30,1809.86
+2026-01-26,Sipho Hardware Online,,336.02,1473.84
+2026-01-26,ATM Cash Withdrawal 7661,,200.00,1273.84
+2026-01-26,Cash Withdrawal Fee,,12.00,1261.84
+2026-01-28,Uber Eats,,274.57,987.27
+2026-02-01,Debit Order: Rent Payment,,5500.00,-4512.73
+2026-02-01,Kfc,,368.40,-4881.13
+2026-02-01,Game Online,,248.56,-5129.69
+2026-02-01,Monthly Account Fee,,6.90,-5136.59
+2026-02-03,Debit Order: Old Mutual Funeral Cover,,400.00,-5536.59
+2026-02-03,Pick N Pay Jhb,,389.05,-5925.64
+2026-02-03,Pick N Pay Jhb,,455.44,-6381.08
+2026-02-03,Shoprite Jhb,,232.92,-6614.00
+2026-02-04,SMS Notification Fee,,0.35,-6614.35
+2026-02-05,City Power Prepaid Electricity,,389.88,-7004.23
+2026-02-05,Mama Thandi Spaza Sandton,,319.24,-7323.47
+2026-02-05,SMS Notification Fee,,0.35,-7323.82
+2026-02-06,PayShap Payment Consulting Inv 0490,16188.90,,8865.08
+2026-02-07,Debit Order: Netflix,,199.00,8666.08
+2026-02-07,Prepaid Mtn Airtime,,209.24,8456.84
+2026-02-08,Prepaid Vodacom Airtime,,229.57,8227.27
+2026-02-09,ATM Cash Withdrawal 6038,,100.00,8127.27
+2026-02-09,Cash Withdrawal Fee,,12.00,8115.27
+2026-02-12,Pep Online,,317.27,7798.00
+2026-02-12,ATM Cash Withdrawal 7965,,100.00,7698.00
+2026-02-12,Cash Withdrawal Fee,,12.00,7686.00
+2026-02-13,Pick N Pay Cape Town,,198.71,7487.29
+2026-02-16,Checkers Durban,,381.65,7105.64
+2026-02-18,PayShap Payment Web Project 2144,7811.10,,14916.74
+2026-02-18,Checkers Durban,,205.91,14710.83
+2026-02-19,City Power Prepaid Electricity,,210.12,14500.71
+2026-02-19,ATM Cash Withdrawal 5429,,100.00,14400.71
+2026-02-19,Cash Withdrawal Fee,,12.00,14388.71
+2026-02-21,Shell Fuel Jhb,,580.66,13808.05
+2026-02-21,ATM Cash Withdrawal 2672,,100.00,13708.05
+2026-02-21,Cash Withdrawal Fee,,12.00,13696.05
+2026-02-23,Kasi Grill,,315.07,13380.98
+2026-02-25,Spar Jhb,,358.93,13022.05
+2026-02-25,Bp Fuel Sandton,,264.38,12757.67
+2026-02-25,Debonairs,,307.32,12450.35
+2026-02-26,Mr Price Online,,250.66,12199.69
+2026-02-27,Engen Fuel Sandton,,300.30,11899.39
+2026-02-27,Mugg And Bean,,456.18,11443.21
+2026-03-01,Debit Order: Rent Payment,,5500.00,5943.21
+2026-03-01,Aunty Nomsa Food,,247.19,5696.02
+2026-03-01,Monthly Account Fee,,6.90,5689.12
+2026-03-02,PayShap Payment Consulting Inv 2157,7923.64,,13612.76
+2026-03-02,Shoprite Pretoria,,449.13,13163.63
+2026-03-03,Debit Order: Old Mutual Funeral Cover,,400.00,12763.63
+2026-03-03,Pep Online,,228.49,12535.14
+2026-03-04,Woolworths Food Cape Town,,413.96,12121.18
+2026-03-04,Kasi Grill,,183.78,11937.40
+2026-03-04,Debonairs,,132.77,11804.63
+2026-03-05,City Power Prepaid Electricity,,361.81,11442.82
+2026-03-05,SMS Notification Fee,,0.35,11442.47
+2026-03-07,Debit Order: Netflix,,199.00,11243.47
+2026-03-07,Pep Online,,222.16,11021.31
+2026-03-07,SMS Notification Fee,,0.35,11020.96
+2026-03-07,SMS Notification Fee,,0.35,11020.61
+2026-03-09,ATM Cash Withdrawal 5191,,50.00,10970.61
+2026-03-09,Cash Withdrawal Fee,,12.00,10958.61
+2026-03-10,Checkers Durban,,369.19,10589.42
+2026-03-10,Steers,,299.56,10289.86
+2026-03-10,Takealot Online,,168.85,10121.01
+2026-03-12,Woolworths Food Soweto,,446.04,9674.97
+2026-03-12,Woolworths Food Soweto,,239.59,9435.38
+2026-03-12,Prepaid Telkom Airtime,,191.36,9244.02
+2026-03-13,Woolworths Food Sandton,,205.57,9038.45
+2026-03-13,Bongani Tuckshop Durban,,220.40,8818.05
+2026-03-13,ATM Cash Withdrawal 2184,,100.00,8718.05
+2026-03-13,Cash Withdrawal Fee,,12.00,8706.05
+2026-03-15,Sasol Fuel Jhb,,280.96,8425.09
+2026-03-17,Sasol Fuel Durban,,363.23,8061.86
+2026-03-17,Pep Online,,151.04,7910.82
+2026-03-18,Mama Thandi Spaza Durban,,535.08,7375.74
+2026-03-19,City Power Prepaid Electricity,,238.19,7137.55
+2026-03-19,Sasol Fuel Durban,,252.26,6885.29
+2026-03-19,Debonairs,,146.15,6739.14
+2026-03-21,ATM Cash Withdrawal 7197,,50.00,6689.14
+2026-03-21,Cash Withdrawal Fee,,12.00,6677.14
+2026-03-21,ATM Cash Withdrawal 6075,,100.00,6577.14
+2026-03-21,Cash Withdrawal Fee,,12.00,6565.14
+2026-03-24,Debonairs,,224.04,6341.10
+2026-03-25,Mugg And Bean,,205.48,6135.62
+2026-03-25,SMS Notification Fee,,0.35,6135.27
+2026-03-26,Bp Fuel Cape Town,,378.60,5756.67
+2026-03-26,Prepaid Vodacom Airtime,,248.60,5508.07
+2026-03-27,PayShap Payment Consulting Inv 3633,4076.36,,9584.43
+2026-04-01,Debit Order: Rent Payment,,5500.00,4084.43
+2026-04-01,Monthly Account Fee,,6.90,4077.53
+2026-04-02,Fresh Produce Market Sandton,,380.10,3697.43
+2026-04-02,Steers,,370.80,3326.63
+2026-04-03,Debit Order: Old Mutual Funeral Cover,,400.00,2926.63
+2026-04-03,Mama Thandi Spaza Durban,,223.77,2702.86
+2026-04-03,Game Online,,246.84,2456.02
+2026-04-03,SMS Notification Fee,,0.35,2455.67
+2026-04-05,PayShap Payment Web Project 5663,19902.26,,22357.93
+2026-04-05,City Power Prepaid Electricity,,311.22,22046.71
+2026-04-05,Woolworths Food Jhb,,373.91,21672.80
+2026-04-07,Debit Order: Netflix,,199.00,21473.80
+2026-04-08,Kfc,,384.99,21088.81
+2026-04-09,Shell Fuel Sandton,,282.10,20806.71
+2026-04-09,SMS Notification Fee,,0.35,20806.36
+2026-04-11,Pick N Pay Pretoria,,575.80,20230.56
+2026-04-12,Steers,,302.25,19928.31
+2026-04-12,Pep Online,,306.81,19621.50
+2026-04-13,Woolworths Food Jhb,,336.84,19284.66
+2026-04-14,Bp Fuel Soweto,,461.77,18822.89
+2026-04-15,Shoprite Sandton,,455.32,18367.57
+2026-04-15,SMS Notification Fee,,0.35,18367.22
+2026-04-16,SMS Notification Fee,,0.35,18366.87
+2026-04-18,Takealot Online,,213.64,18153.23
+2026-04-18,SMS Notification Fee,,0.35,18152.88
+2026-04-19,City Power Prepaid Electricity,,288.78,17864.10
+2026-04-19,Prepaid Vodacom Airtime,,155.96,17708.14
+2026-04-19,Prepaid Mtn Airtime,,135.52,17572.62
+2026-04-22,PayShap Payment Consulting Inv 2817,8097.74,,25670.36
+2026-04-22,ATM Cash Withdrawal 2629,,150.00,25520.36
+2026-04-22,Cash Withdrawal Fee,,12.00,25508.36
+2026-04-24,Fresh Produce Market Sandton,,304.79,25203.57
+2026-04-24,Prepaid Vodacom Airtime,,131.13,25072.44
+2026-04-27,ATM Cash Withdrawal 8111,,100.00,24972.44
+2026-04-27,Cash Withdrawal Fee,,12.00,24960.44
+2026-04-27,ATM Cash Withdrawal 5100,,150.00,24810.44
+2026-04-27,Cash Withdrawal Fee,,12.00,24798.44
+2026-04-28,Bp Fuel Durban,,436.43,24362.01
+2026-04-28,Aunty Nomsa Food,,353.33,24008.68
+2026-05-01,Debit Order: Rent Payment,,5500.00,18508.68
+2026-05-01,Monthly Account Fee,,6.90,18501.78
+2026-05-02,Shoprite Pretoria,,471.69,18030.09
+2026-05-02,ATM Cash Withdrawal 5271,,200.00,17830.09
+2026-05-02,Cash Withdrawal Fee,,12.00,17818.09
+2026-05-03,Debit Order: Old Mutual Funeral Cover,,400.00,17418.09
+2026-05-03,Prepaid Telkom Airtime,,86.99,17331.10
+2026-05-03,SMS Notification Fee,,0.35,17330.75
+2026-05-04,SMS Notification Fee,,0.35,17330.40
+2026-05-05,City Power Prepaid Electricity,,175.12,17155.28
+2026-05-06,Debonairs,,291.21,16864.07
+2026-05-07,PayShap Payment Consulting Inv 2845,3130.89,,19994.96
+2026-05-07,Debit Order: Netflix,,199.00,19795.96
+2026-05-07,Steers,,336.53,19459.43
+2026-05-07,SMS Notification Fee,,0.35,19459.08
+2026-05-08,Mr Price Online,,205.41,19253.67
+2026-05-09,SMS Notification Fee,,0.35,19253.32
+2026-05-10,Shell Fuel Cape Town,,178.68,19074.64
+2026-05-10,Nandos,,203.61,18871.03
+2026-05-13,Checkers Jhb,,600.02,18271.01
+2026-05-14,Shoprite Cape Town,,350.06,17920.95
+2026-05-15,PayShap Payment Consulting Inv 3921,1721.54,,19642.49
+2026-05-15,Pep Online,,101.25,19541.24
+2026-05-16,Engen Fuel Jhb,,426.04,19115.20
+2026-05-16,Engen Fuel Durban,,342.25,18772.95
+2026-05-17,Shell Fuel Jhb,,255.53,18517.42
+2026-05-17,Nandos,,151.28,18366.14
+2026-05-17,ATM Cash Withdrawal 0121,,200.00,18166.14
+2026-05-17,Cash Withdrawal Fee,,12.00,18154.14
+2026-05-19,City Power Prepaid Electricity,,424.88,17729.26
+2026-05-19,Pep Online,,206.82,17522.44
+2026-05-20,Prepaid Vodacom Airtime,,200.58,17321.86
+2026-05-21,Prepaid Mtn Airtime,,141.54,17180.32
+2026-05-21,Debonairs,,242.57,16937.75
+2026-05-23,PayShap Payment Web Project 7724,3147.57,,20085.32
+2026-05-23,Checkers Pretoria,,385.71,19699.61
+2026-05-24,Checkers Pretoria,,605.33,19094.28
+2026-05-25,Checkers Jhb,,647.21,18447.07
+2026-05-25,Steers,,183.86,18263.21
+2026-05-26,SMS Notification Fee,,0.35,18262.86
+2026-05-27,Steers,,123.73,18139.13
+2026-05-28,Mr Price Online,,252.28,17886.85
+2026-06-01,Debit Order: Rent Payment,,5500.00,12386.85
+2026-06-01,Monthly Account Fee,,6.90,12379.95
+2026-06-02,Mama Thandi Spaza Durban,,397.78,11982.17
+2026-06-02,SMS Notification Fee,,0.35,11981.82
+2026-06-03,PayShap Payment Consulting Inv 9471,10981.86,,22963.68
+2026-06-03,Debit Order: Old Mutual Funeral Cover,,400.00,22563.68
+2026-06-05,City Power Prepaid Electricity,,256.41,22307.27
+2026-06-05,Pick N Pay Sandton,,366.90,21940.37
+2026-06-07,Debit Order: Netflix,,199.00,21741.37
+2026-06-12,Bp Fuel Sandton,,268.97,21472.40
+2026-06-13,Bongani Tuckshop Jhb,,276.10,21196.30
+2026-06-13,Prepaid Mtn Airtime,,121.76,21074.54
+2026-06-14,Game Online,,480.63,20593.91
+2026-06-15,Engen Fuel Durban,,315.36,20278.55
+2026-06-16,Shoprite Sandton,,248.64,20029.91
+2026-06-16,Checkers Durban,,230.43,19799.48
+2026-06-16,Checkers Soweto,,420.39,19379.09
+2026-06-16,SMS Notification Fee,,0.35,19378.74
+2026-06-17,PayShap Payment Web Project 3114,10018.14,,29396.88
+2026-06-17,Prepaid Mtn Airtime,,160.79,29236.09
+2026-06-17,Kfc,,124.34,29111.75
+2026-06-18,Shoprite Durban,,482.33,28629.42
+2026-06-18,Engen Fuel Pretoria,,250.70,28378.72
+2026-06-18,ATM Cash Withdrawal 6449,,200.00,28178.72
+2026-06-18,Cash Withdrawal Fee,,12.00,28166.72
+2026-06-19,City Power Prepaid Electricity,,343.59,27823.13
+2026-06-19,Steers,,223.93,27599.20
+2026-06-19,ATM Cash Withdrawal 9586,,200.00,27399.20
+2026-06-19,Cash Withdrawal Fee,,12.00,27387.20
+2026-06-20,Prepaid Mtn Airtime,,145.28,27241.92
+2026-06-21,SMS Notification Fee,,0.35,27241.57
+2026-06-22,SMS Notification Fee,,0.35,27241.22
+2026-06-23,Debonairs,,275.83,26965.39
+2026-06-24,Mugg And Bean,,193.08,26772.31
+2026-06-25,Shell Fuel Pretoria,,282.37,26489.94
+2026-06-25,SMS Notification Fee,,0.35,26489.59
+2026-06-26,Nandos,,255.06,26234.53
+2026-06-27,Takealot Online,,379.51,25855.02
+2026-06-28,Pick N Pay Sandton,,245.53,25609.49
+2026-06-28,Kfc,,316.33,25293.16

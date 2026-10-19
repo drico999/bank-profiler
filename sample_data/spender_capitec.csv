@@ -1,0 +1,279 @@
+Transaction Date,Description,Money In,Money Out,Balance
+2026-01-01,Debit Order: Rent Payment,,5000.00,12136.28
+2026-01-01,Steers,,335.44,11800.84
+2026-01-01,Monthly Account Fee,,6.90,11793.94
+2026-01-03,Debit Order: Old Mutual Funeral Cover,,400.00,11393.94
+2026-01-03,Woolworths Food Sandton,,529.04,10864.90
+2026-01-03,Hollywoodbets Deposit,,75.56,10789.34
+2026-01-04,Sportingbet Deposit,,123.88,10665.46
+2026-01-04,SMS Notification Fee,,0.35,10665.11
+2026-01-05,City Power Prepaid Electricity,,225.91,10439.20
+2026-01-05,Prepaid Vodacom Airtime,,91.06,10348.14
+2026-01-05,Nandos,,355.27,9992.87
+2026-01-05,Hollywoodbets Deposit,,127.95,9864.92
+2026-01-06,Engen Fuel Sandton,,503.53,9361.39
+2026-01-07,Debit Order: Netflix,,199.00,9162.39
+2026-01-07,Pick N Pay Jhb,,789.20,8373.19
+2026-01-08,Sasol Fuel Pretoria,,462.72,7910.47
+2026-01-09,Sasol Fuel Durban,,317.13,7593.34
+2026-01-09,Debonairs,,588.08,7005.26
+2026-01-09,Sportingbet Deposit,,76.59,6928.67
+2026-01-11,Debit Order: Dstv,,449.00,6479.67
+2026-01-11,Checkers Jhb,,294.04,6185.63
+2026-01-11,Prepaid Vodacom Airtime,,154.52,6031.11
+2026-01-13,Spar Pretoria,,409.94,5621.17
+2026-01-15,Debit Order: Showmax,,99.00,5522.17
+2026-01-15,Steers,,350.80,5171.37
+2026-01-15,ATM Cash Withdrawal 5417,,550.00,4621.37
+2026-01-15,Cash Withdrawal Fee,,12.00,4609.37
+2026-01-15,SMS Notification Fee,,0.35,4609.02
+2026-01-17,Woolworths Food Soweto,,292.90,4316.12
+2026-01-17,SMS Notification Fee,,0.35,4315.77
+2026-01-18,Debonairs,,382.38,3933.39
+2026-01-18,Game Online,,587.60,3345.79
+2026-01-18,Betway Deposit,,90.00,3255.79
+2026-01-19,City Power Prepaid Electricity,,374.09,2881.70
+2026-01-19,Prepaid Telkom Airtime,,148.74,2732.96
+2026-01-19,Pep Online,,769.45,1963.51
+2026-01-20,Woolworths Food Jhb,,539.01,1424.50
+2026-01-20,Clicks Online,,941.85,482.65
+2026-01-20,SMS Notification Fee,,0.35,482.30
+2026-01-22,Betway Deposit,,97.16,385.14
+2026-01-22,Hollywoodbets Deposit,,85.14,300.00
+2026-01-23,Salary Acme Pty Ltd,18000.00,,18300.00
+2026-01-25,ATM Cash Withdrawal 2617,,500.00,17800.00
+2026-01-25,Cash Withdrawal Fee,,12.00,17788.00
+2026-01-27,Hollywoodbets Deposit,,44.86,17743.14
+2026-01-28,Nandos,,259.24,17483.90
+2026-02-01,Debit Order: Rent Payment,,5000.00,12483.90
+2026-02-01,Monthly Account Fee,,6.90,12477.00
+2026-02-02,Shell Fuel Sandton,,321.90,12155.10
+2026-02-03,Debit Order: Old Mutual Funeral Cover,,400.00,11755.10
+2026-02-03,Game Online,,410.20,11344.90
+2026-02-05,City Power Prepaid Electricity,,301.73,11043.17
+2026-02-05,Spar Jhb,,580.75,10462.42
+2026-02-05,SMS Notification Fee,,0.35,10462.07
+2026-02-06,Hollywoodbets Deposit,,162.39,10299.68
+2026-02-07,Debit Order: Netflix,,199.00,10100.68
+2026-02-08,Takealot Online,,917.51,9183.17
+2026-02-09,Bp Fuel Jhb,,498.65,8684.52
+2026-02-09,SMS Notification Fee,,0.35,8684.17
+2026-02-10,Sportingbet Deposit,,150.52,8533.65
+2026-02-11,Debit Order: Dstv,,449.00,8084.65
+2026-02-11,Pick N Pay Sandton,,318.46,7766.19
+2026-02-12,Sportingbet Deposit,,218.97,7547.22
+2026-02-13,Debonairs,,321.69,7225.53
+2026-02-14,Nandos,,593.91,6631.62
+2026-02-15,Debit Order: Showmax,,99.00,6532.62
+2026-02-15,Sportingbet Deposit,,146.61,6386.01
+2026-02-16,ATM Cash Withdrawal 1444,,400.00,5986.01
+2026-02-16,Cash Withdrawal Fee,,12.00,5974.01
+2026-02-17,Pep Online,,796.61,5177.40
+2026-02-18,Bongani Tuckshop Cape Town,,494.20,4683.20
+2026-02-18,Pick N Pay Jhb,,518.88,4164.32
+2026-02-18,Uber Eats,,337.94,3826.38
+2026-02-19,City Power Prepaid Electricity,,298.27,3528.11
+2026-02-21,Spar Sandton,,416.39,3111.72
+2026-02-22,Hollywoodbets Deposit,,93.11,3018.61
+2026-02-22,ATM Cash Withdrawal 2651,,650.00,2368.61
+2026-02-22,Cash Withdrawal Fee,,12.00,2356.61
+2026-02-23,Pick N Pay Jhb,,569.42,1787.19
+2026-02-23,SMS Notification Fee,,0.35,1786.84
+2026-02-24,Prepaid Vodacom Airtime,,117.83,1669.01
+2026-02-25,Salary Acme Pty Ltd,18000.00,,19669.01
+2026-02-25,Debonairs,,255.19,19413.82
+2026-02-26,Steers,,424.05,18989.77
+2026-02-27,Shell Fuel Pretoria,,492.83,18496.94
+2026-02-27,Kasi Grill,,405.12,18091.82
+2026-02-27,Steers,,353.20,17738.62
+2026-02-28,Prepaid Mtn Airtime,,294.56,17444.06
+2026-03-01,Debit Order: Rent Payment,,5000.00,12444.06
+2026-03-01,Monthly Account Fee,,6.90,12437.16
+2026-03-02,Pep Online,,791.21,11645.95
+2026-03-02,ATM Cash Withdrawal 9439,,250.00,11395.95
+2026-03-02,Cash Withdrawal Fee,,12.00,11383.95
+2026-03-03,Debit Order: Old Mutual Funeral Cover,,400.00,10983.95
+2026-03-03,Shoprite Pretoria,,766.78,10217.17
+2026-03-05,City Power Prepaid Electricity,,196.60,10020.57
+2026-03-05,Prepaid Vodacom Airtime,,127.71,9892.86
+2026-03-05,SMS Notification Fee,,0.35,9892.51
+2026-03-06,Uber Eats,,510.39,9382.12
+2026-03-07,Debit Order: Netflix,,199.00,9183.12
+2026-03-08,Kasi Grill,,415.51,8767.61
+2026-03-09,Bongani Tuckshop Soweto,,335.27,8432.34
+2026-03-10,SMS Notification Fee,,0.35,8431.99
+2026-03-11,Debit Order: Dstv,,449.00,7982.99
+2026-03-12,Shell Fuel Sandton,,249.33,7733.66
+2026-03-12,Debonairs,,551.07,7182.59
+2026-03-12,Game Online,,556.96,6625.63
+2026-03-12,ATM Cash Withdrawal 7900,,250.00,6375.63
+2026-03-12,Cash Withdrawal Fee,,12.00,6363.63
+2026-03-13,Steers,,831.36,5532.27
+2026-03-13,Hollywoodbets Deposit,,186.19,5346.08
+2026-03-14,Spar Jhb,,328.69,5017.39
+2026-03-14,Hollywoodbets Deposit,,181.72,4835.67
+2026-03-15,Debit Order: Showmax,,99.00,4736.67
+2026-03-15,Engen Fuel Durban,,379.81,4356.86
+2026-03-15,SMS Notification Fee,,0.35,4356.51
+2026-03-17,Sasol Fuel Durban,,222.01,4134.50
+2026-03-17,ATM Cash Withdrawal 3021,,250.00,3884.50
+2026-03-17,Cash Withdrawal Fee,,12.00,3872.50
+2026-03-18,Woolworths Food Sandton,,430.53,3441.97
+2026-03-18,Prepaid Vodacom Airtime,,134.08,3307.89
+2026-03-18,SMS Notification Fee,,0.35,3307.54
+2026-03-19,City Power Prepaid Electricity,,403.40,2904.14
+2026-03-19,Prepaid Vodacom Airtime,,106.90,2797.24
+2026-03-19,Betway Deposit,,184.30,2612.94
+2026-03-21,Woolworths Food Durban,,475.90,2137.04
+2026-03-22,Takealot Online,,314.86,1822.18
+2026-03-23,ATM Cash Withdrawal 6528,,250.00,1572.18
+2026-03-23,Cash Withdrawal Fee,,12.00,1560.18
+2026-03-23,SMS Notification Fee,,0.35,1559.83
+2026-03-24,Betway Deposit,,88.60,1471.23
+2026-03-24,Hollywoodbets Deposit,,173.92,1297.31
+2026-03-25,Salary Acme Pty Ltd,18000.00,,19297.31
+2026-03-26,Checkers Pretoria,,581.13,18716.18
+2026-03-26,Mr Price Online,,541.53,18174.65
+2026-03-27,Shell Fuel Jhb,,455.29,17719.36
+2026-04-01,Debit Order: Rent Payment,,5000.00,12719.36
+2026-04-01,Sportingbet Deposit,,144.48,12574.88
+2026-04-01,Monthly Account Fee,,6.90,12567.98
+2026-04-01,SMS Notification Fee,,0.35,12567.63
+2026-04-02,Pep Online,,735.81,11831.82
+2026-04-03,Debit Order: Old Mutual Funeral Cover,,400.00,11431.82
+2026-04-03,Kasi Grill,,612.72,10819.10
+2026-04-03,Hollywoodbets Deposit,,121.97,10697.13
+2026-04-03,ATM Cash Withdrawal 9851,,350.00,10347.13
+2026-04-03,Cash Withdrawal Fee,,12.00,10335.13
+2026-04-04,Prepaid Telkom Airtime,,128.45,10206.68
+2026-04-05,City Power Prepaid Electricity,,371.97,9834.71
+2026-04-05,Bp Fuel Jhb,,380.06,9454.65
+2026-04-06,Betway Deposit,,151.18,9303.47
+2026-04-06,ATM Cash Withdrawal 4834,,200.00,9103.47
+2026-04-06,Cash Withdrawal Fee,,12.00,9091.47
+2026-04-07,Debit Order: Netflix,,199.00,8892.47
+2026-04-07,Aunty Nomsa Food,,219.77,8672.70
+2026-04-07,Kasi Grill,,254.81,8417.89
+2026-04-08,Pick N Pay Soweto,,435.77,7982.12
+2026-04-08,Sportingbet Deposit,,178.66,7803.46
+2026-04-10,Spar Pretoria,,424.90,7378.56
+2026-04-11,Debit Order: Dstv,,449.00,6929.56
+2026-04-11,Sasol Fuel Sandton,,554.18,6375.38
+2026-04-11,Uber Eats,,305.83,6069.55
+2026-04-12,Checkers Sandton,,326.62,5742.93
+2026-04-12,Mugg And Bean,,640.88,5102.05
+2026-04-14,Prepaid Mtn Airtime,,144.54,4957.51
+2026-04-15,Debit Order: Showmax,,99.00,4858.51
+2026-04-15,Prepaid Mtn Airtime,,96.68,4761.83
+2026-04-16,ATM Cash Withdrawal 9540,,300.00,4461.83
+2026-04-16,Cash Withdrawal Fee,,12.00,4449.83
+2026-04-19,City Power Prepaid Electricity,,228.03,4221.80
+2026-04-19,SMS Notification Fee,,0.35,4221.45
+2026-04-20,Woolworths Food Jhb,,307.83,3913.62
+2026-04-22,Bp Fuel Soweto,,285.69,3627.93
+2026-04-22,Sportingbet Deposit,,95.66,3532.27
+2026-04-23,Steers,,461.75,3070.52
+2026-04-23,Hollywoodbets Deposit,,71.09,2999.43
+2026-04-24,Salary Acme Pty Ltd,18000.00,,20999.43
+2026-04-24,Spar Durban,,479.66,20519.77
+2026-04-24,Pep Online,,1294.47,19225.30
+2026-04-24,ATM Cash Withdrawal 6835,,250.00,18975.30
+2026-04-24,Cash Withdrawal Fee,,12.00,18963.30
+2026-04-25,Woolworths Food Jhb,,405.62,18557.68
+2026-04-27,Fresh Produce Market Durban,,215.73,18341.95
+2026-04-28,SMS Notification Fee,,0.35,18341.60
+2026-05-01,Debit Order: Rent Payment,,5000.00,13341.60
+2026-05-01,Monthly Account Fee,,6.90,13334.70
+2026-05-02,Fresh Produce Market Sandton,,169.80,13164.90
+2026-05-03,Debit Order: Old Mutual Funeral Cover,,400.00,12764.90
+2026-05-05,City Power Prepaid Electricity,,360.11,12404.79
+2026-05-06,Checkers Cape Town,,225.68,12179.11
+2026-05-06,SMS Notification Fee,,0.35,12178.76
+2026-05-07,Debit Order: Netflix,,199.00,11979.76
+2026-05-07,Pick N Pay Cape Town,,484.24,11495.52
+2026-05-07,Hollywoodbets Deposit,,93.91,11401.61
+2026-05-07,Sportingbet Deposit,,94.89,11306.72
+2026-05-08,Spar Durban,,245.55,11061.17
+2026-05-08,Sportingbet Deposit,,125.37,10935.80
+2026-05-09,Kasi Grill,,474.71,10461.09
+2026-05-09,ATM Cash Withdrawal 6528,,350.00,10111.09
+2026-05-09,Cash Withdrawal Fee,,12.00,10099.09
+2026-05-10,Fresh Produce Market Cape Town,,237.60,9861.49
+2026-05-10,Mugg And Bean,,479.21,9382.28
+2026-05-11,Debit Order: Dstv,,449.00,8933.28
+2026-05-12,Checkers Jhb,,468.05,8465.23
+2026-05-12,Shell Fuel Jhb,,279.78,8185.45
+2026-05-13,Sasol Fuel Soweto,,382.41,7803.04
+2026-05-13,Prepaid Telkom Airtime,,238.41,7564.63
+2026-05-13,Sportingbet Deposit,,85.13,7479.50
+2026-05-14,Shell Fuel Sandton,,310.23,7169.27
+2026-05-14,Prepaid Telkom Airtime,,126.30,7042.97
+2026-05-15,Debit Order: Showmax,,99.00,6943.97
+2026-05-15,Takealot Online,,704.20,6239.77
+2026-05-16,Betway Deposit,,191.72,6048.05
+2026-05-17,Kfc,,373.78,5674.27
+2026-05-17,ATM Cash Withdrawal 2391,,200.00,5474.27
+2026-05-17,Cash Withdrawal Fee,,12.00,5462.27
+2026-05-19,City Power Prepaid Electricity,,239.89,5222.38
+2026-05-19,Betway Deposit,,93.68,5128.70
+2026-05-20,ATM Cash Withdrawal 4240,,150.00,4978.70
+2026-05-20,Cash Withdrawal Fee,,12.00,4966.70
+2026-05-21,Nandos,,454.27,4512.43
+2026-05-21,Mr Price Online,,936.16,3576.27
+2026-05-25,Salary Acme Pty Ltd,18000.00,,21576.27
+2026-05-25,Pick N Pay Jhb,,433.96,21142.31
+2026-05-25,Uber Eats,,612.03,20530.28
+2026-05-26,Clicks Online,,736.18,19794.10
+2026-05-26,ATM Cash Withdrawal 9332,,250.00,19544.10
+2026-05-26,Cash Withdrawal Fee,,12.00,19532.10
+2026-05-27,Engen Fuel Jhb,,155.16,19376.94
+2026-05-27,Betway Deposit,,142.20,19234.74
+2026-05-28,Spar Sandton,,436.42,18798.32
+2026-05-28,SMS Notification Fee,,0.35,18797.97
+2026-06-01,Debit Order: Rent Payment,,5000.00,13797.97
+2026-06-01,Mama Thandi Spaza Sandton,,433.79,13364.18
+2026-06-01,Monthly Account Fee,,6.90,13357.28
+2026-06-02,Clicks Online,,627.04,12730.24
+2026-06-02,Sportingbet Deposit,,122.69,12607.55
+2026-06-03,Debit Order: Old Mutual Funeral Cover,,400.00,12207.55
+2026-06-04,Prepaid Mtn Airtime,,201.01,12006.54
+2026-06-04,Prepaid Vodacom Airtime,,98.30,11908.24
+2026-06-04,ATM Cash Withdrawal 4720,,300.00,11608.24
+2026-06-04,Cash Withdrawal Fee,,12.00,11596.24
+2026-06-05,City Power Prepaid Electricity,,247.01,11349.23
+2026-06-06,Debonairs,,342.96,11006.27
+2026-06-07,Debit Order: Netflix,,199.00,10807.27
+2026-06-07,Prepaid Telkom Airtime,,134.21,10673.06
+2026-06-07,Mugg And Bean,,735.81,9937.25
+2026-06-08,Fresh Produce Market Jhb,,641.21,9296.04
+2026-06-08,Engen Fuel Pretoria,,334.30,8961.74
+2026-06-09,ATM Cash Withdrawal 0473,,300.00,8661.74
+2026-06-09,Cash Withdrawal Fee,,12.00,8649.74
+2026-06-10,Bp Fuel Durban,,254.51,8395.23
+2026-06-10,Clicks Online,,1064.85,7330.38
+2026-06-11,Debit Order: Dstv,,449.00,6881.38
+2026-06-11,Takealot Online,,489.28,6392.10
+2026-06-12,Hollywoodbets Deposit,,117.89,6274.21
+2026-06-13,ATM Cash Withdrawal 8407,,100.00,6174.21
+2026-06-13,Cash Withdrawal Fee,,12.00,6162.21
+2026-06-14,Spar Jhb,,508.27,5653.94
+2026-06-14,Woolworths Food Jhb,,329.52,5324.42
+2026-06-15,Debit Order: Showmax,,99.00,5225.42
+2026-06-15,Debonairs,,643.78,4581.64
+2026-06-15,Sportingbet Deposit,,127.88,4453.76
+2026-06-17,Betway Deposit,,90.23,4363.53
+2026-06-18,Steers,,354.15,4009.38
+2026-06-19,City Power Prepaid Electricity,,352.99,3656.39
+2026-06-19,Shoprite Jhb,,640.56,3015.83
+2026-06-19,Pick N Pay Soweto,,450.47,2565.36
+2026-06-20,Bp Fuel Pretoria,,344.84,2220.52
+2026-06-22,Betway Deposit,,123.80,2096.72
+2026-06-23,Debonairs,,579.42,1517.30
+2026-06-23,ATM Cash Withdrawal 6053,,200.00,1317.30
+2026-06-23,Cash Withdrawal Fee,,12.00,1305.30
+2026-06-25,Salary Acme Pty Ltd,18000.00,,19305.30
+2026-06-25,SMS Notification Fee,,0.35,19304.95
+2026-06-25,SMS Notification Fee,,0.35,19304.60
+2026-06-27,Sportingbet Deposit,,147.80,19156.80
+2026-06-27,Betway Deposit,,95.49,19061.31
+2026-06-28,Engen Fuel Cape Town,,238.30,18823.01

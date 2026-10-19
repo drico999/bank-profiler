@@ -1,0 +1,9 @@
+[project]
+name = "bank-profiler"
+version = "0.1.0"
+description = "South African bank statement profiler (ZAR only) - personal learning project"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
